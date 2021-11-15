@@ -1,6 +1,9 @@
 # simpleLogin
 I made a simple login app using Node &amp; express
 
+sends "PASSED" when password is correct. if it's wrong, it will send "WRONG"
+
+
 # HOW TO RUN
 npm install
 
