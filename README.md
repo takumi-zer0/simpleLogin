@@ -5,3 +5,6 @@ I made a simple login app using Node &amp; express
 npm install
 
 node server.js
+
+#Node version
+v14.17.0
